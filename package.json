@@ -1,0 +1,22 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAAAAsen1102/ts-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAAAAsen1102/ts-book/issues"
+  },
+  "homepage": "https://github.com/AAAAAsen1102/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^5.0.0-alpha.2"
+  }
+}
